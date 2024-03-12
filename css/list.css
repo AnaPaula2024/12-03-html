@@ -1,0 +1,10 @@
+/* 06 - Fui estilizado pelo external css */
+
+ul{
+    border: solid 1px blue;
+    padding: 10px;
+}
+
+li{
+    color: darkblue;
+}
